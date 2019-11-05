@@ -1,0 +1,15 @@
+
+#DIRECTION.data-v-7b98d42d{
+}
+.title.data-v-7b98d42d{
+	font-weight: bold;
+	font-size: 0.9em;
+}
+.main.data-v-7b98d42d{
+	font-size: 0.8em;
+}
+.text.data-v-7b98d42d{
+	font-size: 0.8em;
+	color: #8a8a8a;
+}
+

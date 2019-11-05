@@ -1,0 +1,41 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/coupon/coupon",
+    "pages/shop/shop",
+    "pages/direction/direction",
+    "pages/lost/lost",
+    "pages/storage/storage",
+    "pages/pickup/pickup",
+    "pages/tel/tel",
+    "pages/free/free"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "white",
+    "navigationBarTitleText": "uni-app",
+    "navigationBarBackgroundColor": "#2FACFF",
+    "backgroundColor": "#F8F8F8"
+  },
+  "tabBar": {
+    "color": "#8a8a8a",
+    "selectedColor": "#008000",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "存取",
+        "iconPath": "static/tabbar/u78.png",
+        "selectedIconPath": "static/tabbar/u109.png"
+      },
+      {
+        "pagePath": "pages/coupon/coupon",
+        "text": "我的卡券",
+        "iconPath": "static/tabbar/u85.png",
+        "selectedIconPath": "static/tabbar/u278.png"
+      }
+    ]
+  },
+  "permission": {},
+  "usingComponents": {},
+  "sitemapLocation": "sitemap24.json"
+}

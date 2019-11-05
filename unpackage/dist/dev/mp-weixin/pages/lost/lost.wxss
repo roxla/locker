@@ -1,0 +1,12 @@
+
+#LOST.data-v-5371f1ed{
+	background-color: #F2F2F2;
+	font-size: 0.8em;
+}
+.lost-item.data-v-5371f1ed{
+	background-color: white;
+	padding: 20rpx 30rpx;
+	border-top: 1px solid #D7D5DA;
+	word-break: break-all;
+}
+

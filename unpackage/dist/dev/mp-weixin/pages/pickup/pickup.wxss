@@ -1,0 +1,159 @@
+
+#LOST.data-v-0ce2c52d{
+	background-color: #F2F2F2;
+	font-size: 0.8em;
+}
+.address.data-v-0ce2c52d{
+	word-wrap: break-word;
+	height: 80rpx;
+	overflow-y: scroll;
+}
+.lost-header.data-v-0ce2c52d{
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	    -ms-flex-align: center;
+	        align-items: center;
+	padding: 10rpx;
+	background-color: white;
+	margin-bottom: 5rpx;
+}
+.header-logo.data-v-0ce2c52d{
+	width: 55rpx;
+	height: 55rpx;
+}
+.header-logo image.data-v-0ce2c52d{
+	width: 100%;
+	height: 100%;
+}
+.header-text.data-v-0ce2c52d{
+	width: calc(100% - 60rpx);
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-box-pack: justify;
+	-webkit-justify-content: space-between;
+	    -ms-flex-pack: justify;
+	        justify-content: space-between;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	    -ms-flex-align: center;
+	        align-items: center;
+	font-weight: bold;
+	padding: 0rpx 10rpx 0rpx 25rpx;
+}
+.lost-info.data-v-0ce2c52d{
+	padding: 15rpx 25rpx 15rpx 35rpx;
+	background-color: white;
+	border-bottom: 2.5rpx solid #F2F2F2;
+}
+.lost-price-box.data-v-0ce2c52d{
+	background-color: white;
+	margin: 20rpx 0rpx 5rpx;
+}
+.lost-price.data-v-0ce2c52d{
+	border-left: 10rpx solid #009900;
+	padding: 15rpx 25rpx;
+	font-weight: bold;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-box-pack: justify;
+	-webkit-justify-content: space-between;
+	    -ms-flex-pack: justify;
+	        justify-content: space-between;
+}
+.lost-price text.data-v-0ce2c52d{
+	font-size: 1.2em;
+}
+.lost-remark-box.data-v-0ce2c52d{
+	margin-top: 20rpx;
+	background-color: white;
+	height: 315rpx;
+	width: 100%;
+	position: absolute;
+}
+.lost-remark-title.data-v-0ce2c52d{
+	border-bottom: 2.5rpx solid #F2F2F2;
+	padding: 15rpx 25rpx;
+	border-left: 10rpx solid #009900;
+	font-weight: bold;
+}
+.lost-remark.data-v-0ce2c52d{
+	padding: 15rpx 25rpx 0rpx 35rpx;
+}
+.lost-remark textarea.data-v-0ce2c52d{
+	width: 100%;
+	height: 175rpx;
+}
+.text-num.data-v-0ce2c52d{
+	height: 40rpx;
+	line-height: 40rpx;
+	padding: 10rpx 25rpx;
+	text-align: right;
+	font-size: 0.9em;
+	color: #AFAFAF;
+	vertical-align: middle;
+}
+.applied-title.data-v-0ce2c52d{
+	border-left-color: #B04600;
+}
+.applied-text.data-v-0ce2c52d{
+	overflow-y: scroll;
+	max-height: calc(315rpx - 101rpx);
+}
+.lost-remark-item.data-v-0ce2c52d{
+	margin-bottom: 15rpx;
+	word-wrap: break-word;
+}
+.lost-remark-item.data-v-0ce2c52d:last-of-type{
+	margin-bottom: 0rpx;
+}
+.lost-button-box.data-v-0ce2c52d{
+	width: 90%;
+	margin: auto;
+	height: calc(100vh - 670rpx);
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-box-align: end;
+	-webkit-align-items: flex-end;
+	    -ms-flex-align: end;
+	        align-items: flex-end;
+	-webkit-box-pack: justify;
+	-webkit-justify-content: space-between;
+	    -ms-flex-pack: justify;
+	        justify-content: space-between;
+}
+.lost-button.data-v-0ce2c52d{
+	width: 48%;
+}
+.lost-button button.data-v-0ce2c52d{
+	height: 90rpx;
+	line-height: 90rpx;
+	font-size: 1em;
+}
+.tel-box.data-v-0ce2c52d{
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	    -ms-flex-align: center;
+	        align-items: center;
+	-webkit-box-pack: justify;
+	-webkit-justify-content: space-between;
+	    -ms-flex-pack: justify;
+	        justify-content: space-between;
+	padding: 15rpx 5rpx 15rpx 35rpx;
+	background-color: white;
+	border-bottom: 2.5rpx solid #F2F2F2;
+}
+
